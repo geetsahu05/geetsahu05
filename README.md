@@ -1,16 +1,42 @@
-## Hi there 👋
+##👋 Hi, I'm Geet Kumar Sahu
 
-<!--
-**geetsahu05/geetsahu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer (MERN | Java | Spring Boot)
+Building scalable microservices, high-performance APIs, and event-driven systems using Kafka, Redis, Docker, and AWS.
 
-Here are some ideas to get you started:
+##🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Redux, EJS, Tailwind, JavaScript
+Backend: Node.js, Express.js, NestJS, Spring Boot
+Databases: MongoDB, Redis, PostgreSQL
+DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma
+Languages: Java, JavaScript, TypeScript, Python
+
+##🚀 Projects
+
+UniSpace – Room Booking System (Microservices + Kafka)
+Auth, Booking & Analytics services • QR check-ins • Redis caching • Google Calendar sync.
+
+Medicine Inventory & Consumption System
+Data Matrix scanning • region-wise analytics • alert engine • Kafka Streams + Redis.
+
+Selltophia – E-Commerce Platform
+Secure APIs • JWT/OAuth2 • admin/seller modules • order & inventory management.
+
+##🏆 Achievements
+
+Top 5 – ULIP Logistics Hackathon 2.0
+
+Winner – ISRO Science Model (Drone Designing)
+
+Boeing RC Plane Design Competition (IIT Kharagpur)
+
+Drone Lab President & Workshop Organizer (IIT Bhubaneswar)
+
+##🎯 Interests
+
+FPV Drone Flying • Badminton • Distributed Systems • Microservices
+
+##📫 Connect
+
+GitHub: github.com/geetsahu05
+LinkedIn: linkedin.com/in/geet-sahu-526411264/
