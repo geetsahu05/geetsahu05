@@ -30,7 +30,7 @@ Backend: Node.js, Express.js, NestJS, Spring Boot
 Databases: MongoDB, PostgreSQL, Redis
 DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f303a92f-0728-4eb8-9a15-ac4c621921b3" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f303a92f-0728-4eb8-9a15-ac4c621921b3" />
 
 
 ## 🌱 Currently Exploring
