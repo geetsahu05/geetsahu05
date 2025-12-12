@@ -1,4 +1,4 @@
-##👋 Hi, I'm Geet Kumar Sahu
+## 👋 Hi, I'm Geet Kumar Sahu
 
 Full-Stack Developer (MERN | Java | Spring Boot)
 Building scalable microservices, high-performance APIs, and event-driven systems using Kafka, Redis, Docker, and AWS.
