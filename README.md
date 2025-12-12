@@ -35,7 +35,8 @@ DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d9719103-c322-492d-b450-1a2309a5bdbc" />
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a844a900-4991-419d-b4ef-3ca7e3497756" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3bf84bce-0901-4a5f-bbfa-d5223de2f66d" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7dc88621-aa0a-4676-93aa-24ddab4eaf0a" />
+
 
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1ed2ad55-44d7-4727-8b00-9d8366c4a9ec" />
