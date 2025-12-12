@@ -66,8 +66,11 @@ DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 ## 🏆 Achievements
 
 🥇 Top 5 – ULIP Logistics Hackathon 2.0
+
 🏆 Winner – ISRO Science Model (Drone Designing)
+
 ✈️ Boeing RC Plane Design Competition – IIT Kharagpur
+
 🌟 Drone Lab President & Technical Workshop Organizer (IIT Bhubaneswar)
 
 ## 📬 Get in Touch
