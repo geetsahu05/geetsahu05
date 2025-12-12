@@ -25,14 +25,20 @@ Secure auth (JWT/OAuth2), admin & seller modules, order tracking, Spring Boot ba
 ## 🛠️ Tech Stack
 
 Languages: Java, JavaScript, TypeScript, Python
+
 Frontend: React, Redux, EJS, Tailwind
+
 Backend: Node.js, Express.js, NestJS, Spring Boot
+
 Databases: MongoDB, PostgreSQL, Redis
+
 DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f303a92f-0728-4eb8-9a15-ac4c621921b3" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1bcebce6-7b08-4cb7-8a26-2d3e2878e339" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d9719103-c322-492d-b450-1a2309a5bdbc" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86534cfb-59c3-4654-a22f-abf6c65894aa" />
+
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a844a900-4991-419d-b4ef-3ca7e3497756" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7dc88621-aa0a-4676-93aa-24ddab4eaf0a" />
