@@ -5,9 +5,13 @@ A Full-Stack Developer and IT Engineering Student who loves building scalable sy
 ## 🚀 About Me
 
 🎓 Pursuing B.Tech in Information Technology (NIST, Berhampur).
-💻 Full-stack developer skilled in MERN, Spring Boot, Kafka, Redis, Docker, AWS.
+
+💻 Full-stack developer skilled in MERN, Spring Boot, Kafka, Redis, Docker.
+
 ⚙️ Passionate about microservices, event-driven systems, and high-performance backend architectures.
+
 🚁 Drone Lab President | FPV Drone Enthusiast | Winner of multiple national-level drone competitions.
+
 💡 Currently working on Room Management Systems, Medicine Inventory Platforms, and Distributed Microservices.
 
 ## 📂 Featured Projects
