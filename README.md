@@ -56,8 +56,11 @@ DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 ## 🌱 Currently Exploring
 
 🚀 Kubernetes & Distributed System Design
+
 ⚡ Kafka Streams & Event-Driven Architectures
+
 ☁️ Cloud Deployments (AWS, Docker, CI/CD)
+
 📦 Scalable microservice-based applications
 
 ## 🏆 Achievements
