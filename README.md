@@ -1,42 +1,53 @@
-## 👋 Hi, I'm Geet Kumar Sahu
+## Hi, I'm Geet Kumar Sahu 👋
 
-Full-Stack Developer (MERN | Java | Spring Boot)
-Building scalable microservices, high-performance APIs, and event-driven systems using Kafka, Redis, Docker, and AWS.
+A Full-Stack Developer and IT Engineering Student who loves building scalable systems, exploring distributed architectures, and creating real-world impact through development and hackathons.
 
-##🔧 Tech Stack
+## 🚀 About Me
 
-Frontend: React, Redux, EJS, Tailwind, JavaScript
-Backend: Node.js, Express.js, NestJS, Spring Boot
-Databases: MongoDB, Redis, PostgreSQL
-DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma
+🎓 Pursuing B.Tech in Information Technology (NIST, Berhampur).
+💻 Full-stack developer skilled in MERN, Spring Boot, Kafka, Redis, Docker, AWS.
+⚙️ Passionate about microservices, event-driven systems, and high-performance backend architectures.
+🚁 Drone Lab President | FPV Drone Enthusiast | Winner of multiple national-level drone competitions.
+💡 Currently working on Room Management Systems, Medicine Inventory Platforms, and Distributed Microservices.
+
+## 📂 Featured Projects
+
+1. UniSpace – University Room Booking System (Microservices + Kafka)
+Real-time booking, QR check-ins, Google Calendar sync, automated teacher-absent alerts.
+
+2. Medicine Inventory & Consumption System
+Data Matrix scanning, low-stock alerts, region-wise analytics, Kafka Streams aggregation.
+
+3. Selltophia – E-Commerce Platform
+Secure auth (JWT/OAuth2), admin & seller modules, order tracking, Spring Boot backend.
+
+
+## 🛠️ Tech Stack
+
 Languages: Java, JavaScript, TypeScript, Python
+Frontend: React, Redux, EJS, Tailwind
+Backend: Node.js, Express.js, NestJS, Spring Boot
+Databases: MongoDB, PostgreSQL, Redis
+DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 
-##🚀 Projects
+## 🌱 Currently Exploring
 
-UniSpace – Room Booking System (Microservices + Kafka)
-Auth, Booking & Analytics services • QR check-ins • Redis caching • Google Calendar sync.
+🚀 Kubernetes & Distributed System Design
+⚡ Kafka Streams & Event-Driven Architectures
+☁️ Cloud Deployments (AWS, Docker, CI/CD)
+📦 Scalable microservice-based applications
 
-Medicine Inventory & Consumption System
-Data Matrix scanning • region-wise analytics • alert engine • Kafka Streams + Redis.
+## 🏆 Achievements
 
-Selltophia – E-Commerce Platform
-Secure APIs • JWT/OAuth2 • admin/seller modules • order & inventory management.
+🥇 Top 5 – ULIP Logistics Hackathon 2.0
+🏆 Winner – ISRO Science Model (Drone Designing)
+✈️ Boeing RC Plane Design Competition – IIT Kharagpur
+🌟 Drone Lab President & Technical Workshop Organizer (IIT Bhubaneswar)
 
-##🏆 Achievements
+## 📬 Get in Touch
 
-Top 5 – ULIP Logistics Hackathon 2.0
+💼 LinkedIn: https://www.linkedin.com/in/geet-sahu-526411264/
 
-Winner – ISRO Science Model (Drone Designing)
+🐙 GitHub: https://github.com/geetsahu05
 
-Boeing RC Plane Design Competition (IIT Kharagpur)
-
-Drone Lab President & Workshop Organizer (IIT Bhubaneswar)
-
-##🎯 Interests
-
-FPV Drone Flying • Badminton • Distributed Systems • Microservices
-
-##📫 Connect
-
-GitHub: github.com/geetsahu05
-LinkedIn: linkedin.com/in/geet-sahu-526411264/
+✉️ Email: geetsahu1852005@gmail.com
