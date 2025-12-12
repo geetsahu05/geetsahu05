@@ -31,6 +31,14 @@ Databases: MongoDB, PostgreSQL, Redis
 DevOps & Tools: Docker, Kubernetes, Kafka, AWS, Git, Prisma, Postman
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f303a92f-0728-4eb8-9a15-ac4c621921b3" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1bcebce6-7b08-4cb7-8a26-2d3e2878e339" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a844a900-4991-419d-b4ef-3ca7e3497756" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1ed2ad55-44d7-4727-8b00-9d8366c4a9ec" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/23b918c5-099f-4b98-b947-a243f644aa22" />
+
+
+
+
 
 
 ## 🌱 Currently Exploring
